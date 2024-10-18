@@ -20,7 +20,7 @@ The code is in HTML and CSS only.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://chuck94ita.github.io/qr-code/)
+- Live Site URL: (https://chuck94ita.github.io/qr-code/)
 
 ## My process
 
