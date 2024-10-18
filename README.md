@@ -19,8 +19,8 @@ The code is in HTML and CSS only.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://chuck94ita.github.io/qr-code/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/css-and-html-solution-using-grid-layout-axlQcFXORG)
+- Live Site URL: https://chuck94ita.github.io/qr-code/
 
 ## My process
 
